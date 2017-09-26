@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Hammerhead-Italic_21955.ttf</string>
+	</array>
 </dict>
 </plist>
