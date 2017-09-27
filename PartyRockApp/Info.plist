@@ -47,5 +47,10 @@
 	<array>
 		<string>Hammerhead-Italic_21955.ttf</string>
 	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
