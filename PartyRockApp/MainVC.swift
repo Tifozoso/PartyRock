@@ -43,9 +43,9 @@ class MainVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
         
         if let cell = tableView.dequeueReusableCell(withIdentifier: "PartyCell", for: indexPath) as? PartyCell {
             
-            let PartyRock = partyRocks[indexPath.row]
+            let partyRock = partyRocks[indexPath.row]
             
-            cell.updateUI(partyRock: PartyRock)
+            cell.updateUI(partyRock: partyRock)
             
             return cell
         
