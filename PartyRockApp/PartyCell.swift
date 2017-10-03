@@ -34,6 +34,7 @@ class PartyCell: UITableViewCell {
                 //handle the error
             }
         }
+
     }
 
 }
